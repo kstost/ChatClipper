@@ -13,4 +13,4 @@ Streamline your ChatGPT experience: By using ChatClipper, you can enhance your p
   
 ChatClipper Chrome extension can significantly improve your ChatGPT experience by enabling you to effortlessly capture, copy it to clipboard and share snippets of your AI chatbot conversations. This added functionality can lead to increased productivity, better organization, and an overall smoother user experience on the ChatGPT.  
   
-The capture function was implemented using [https://html2canvas.hertzen.com/](html2canvas).
+The capture function was implemented using [html2canvas](https://html2canvas.hertzen.com/).  
